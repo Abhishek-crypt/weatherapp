@@ -5,10 +5,14 @@
   }
   
   body{
-    font-family: "Nunito",sans-serif;
-    background: #f8f8f8;
+    font-family: "Montserrat","sans-serif";
+    background: #75cc112c;
+    background-image: url(sky.jpg);
   }
   
+  h1 {
+    text-align: center;
+  }
   .input{
     text-align: center;
     margin: 100px auto;
@@ -16,29 +20,29 @@
   
   input[type="submit"]{
     padding: 15px 30px;
-    background: #e7e7e7;
+    background: #65ceee;
     border: none;
     border-radius: 1px;
-    font-family: "Nunito",sans-serif;
+    font-family: "Montserrat",sans-serif;
     font-weight:bold;
-    font-size: 20px;
+    font-size : 20px;
   }
   
   .input input[type="text"]{
     width: 600px;
     height: 55px;
     padding: 5px 10px;
-    background: #e7e7e7;
+    background: #e7f337;
     border: none;
     border-radius: 1px;
-    font-family: "Nunito",sans-serif;
+    font-family: "Montserrat",sans-serif;
     font-weight:bold;
     font-size: 20px;
   }
   
   .card{
     width: 50%;
-    background: #e7e7e7;
+    background: #a02ee2;
     height: 40vh;
     margin: 50px auto;
     border-radius: 2px;
